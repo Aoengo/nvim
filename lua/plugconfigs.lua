@@ -1,4 +1,3 @@
-
 --color scheme--
 require('doom-one').setup {
     cursor_coloring = false,
@@ -29,5 +28,7 @@ require('doom-one').setup {
 }
 
 
+require'nvim-tree'.setup {
 
+}
 
