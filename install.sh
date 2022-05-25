@@ -21,8 +21,6 @@ else
     echo "Finder has been exists..."
 fi
 
-git clone https://github.com/Aoengo/nvim.git
-cd nvim
 
 sudo ln -s /usr/bin/nvim /usr/local/bin/vi
 nvim
